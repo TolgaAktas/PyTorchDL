@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Deep Learning (PyTorch)
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree program](https://www.udacity.com/course/deep-learning-nanodegree--nd101). It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight initialization and batch normalization.
@@ -159,3 +160,7 @@ jupyter notebook
 ```
 
 To exit the environment when you have completed your work session, simply close the terminal window.
+=======
+# PyTorchDL
+Udacity's DL with PyTorch Challenge - Python Implementations
+>>>>>>> dce976ca225d516c8fd8c75dfec17e33e2a39f79
